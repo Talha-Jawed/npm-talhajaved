@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const { white, blueBright } = require("colorette");
 
 const heading = `${white("Talha Javed")}`;
