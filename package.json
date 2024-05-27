@@ -1,0 +1,32 @@
+{
+  "name": "talhajaved",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "bin": {
+    "talhajaved": "./index.js"
+  },
+  "keywords": [
+    "talhajaved",
+    "talha javed"
+  ],
+  "author": "Talha Javed <jawedtalha0@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Talha-Jawed/npm-talhajaved.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Talha-Jawed/npm-talhajaved/issues"
+  },
+  "homepage": "https://github.com/Talha-Jawed/npm-talhajaved#readme",
+  "dependencies": {
+    "colorette": "^2.0.20",
+    "nodemon": "^3.1.0",
+    "table-layout": "^3.0.2"
+  }
+}
